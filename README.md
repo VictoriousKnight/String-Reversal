@@ -1,0 +1,3 @@
+# String-Reversal
+It reverses the strings provided by the user.
+Just type the string you want to reverse as x and press enter...
